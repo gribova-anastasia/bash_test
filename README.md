@@ -39,3 +39,7 @@ https://github.com/gribova-anastasia/bash_test/blob/main/.gitignore
     В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.  
     
 https://github.com/gribova-anastasia/bash_test/network  
+
+
+28.08.2024
+new commit
